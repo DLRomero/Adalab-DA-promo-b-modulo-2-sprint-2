@@ -1,4 +1,4 @@
-# DA-promo-b-modulo-2-sprint-2-Antoanela-Diana
+# DA-promo-b-modulo-2-sprint-2
 
 En este repositorio se ecuentra el procesado de datos de un archivo csv sobre ataques de tiburones.
 Consta de 6 carpetas:
